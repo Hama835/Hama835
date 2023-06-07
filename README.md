@@ -1,1 +1,1 @@
-<img src="img/dev-mode.png" width="981" />
+<h1> Hama Amanj </h1>
