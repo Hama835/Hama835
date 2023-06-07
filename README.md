@@ -1,6 +1,1 @@
-<h1> UMG Store </h1>
-
-
-<div background=white>
-<img src="img/app_logo.png" width="981" />
-</div>
+<div flex="" class="_ngcontent-las-26"><!----> <!----><img class="image _ngcontent-las-26 elevated" imagesize="medium" src="https://lh3.googleusercontent.com/zOMb6vGT8fI6mLl467U7T95aF5nVdhCBzdByXxC-ckbuPU2efgafRECP24ce-UOhUTo" alt="UMGACADEMY"></div>
