@@ -1,1 +1,1 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+![image title](https://rushter.com/counter.svg)
